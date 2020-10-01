@@ -1,4 +1,4 @@
-# Ingest Form Application
+# Patient Enrollment Form
 
 ### Overview
 
@@ -10,7 +10,7 @@ In this task you'll be creating a simple, **React** application, that consists o
 
 #### Form
 
-We would like you to create a **multi-step** or **multi-screen** patient ingest
+We would like you to create a **multi-step** or **multi-screen** patient enrollment
 form that gathers standard medical data. See [fixtures](./fixtures.md) for example questions, data and terms.
 
 
@@ -18,7 +18,7 @@ Here is a suggested organization of the form, but use your best judgement and
 creativity:
 
 1.  **Demographic data**: name, email, address, birthdate, etc
-2.  **Diseases**: List diseases by category. Control should be filterable and selections persist between filter selection changes. See [diseases](./diseases.json)
+2.  **Conditions**: List conditions by category. Control should be filterable and selections persist between filter selection changes. See [conditions](./conditions.json)
 3.  **Medical questions**: Questionnaire.  
 3.  **Summary**: Show the patient a summary screen with their selections and provide a mechanism for them to go back and edit any mistakes
 4.  **Submit**: Show terms and checkbox to accept and a button to submit.
@@ -53,6 +53,3 @@ you'll consider the following.
 ### Delivery of project
 
 Please place your finished source code on GitHub, Gitlab, or send us a zip file. 
-
-
-
