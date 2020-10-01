@@ -47,7 +47,7 @@ you'll consider the following.
 6.  **Make it look good**: Just use [Semantic UI](https://react.semantic-ui.com/),
     [ant design](https://ant.design/docs/react/use-with-create-react-app) or another
     UI kit you're comfortable with.
-7.  **Tests** Highly desireable but 100% coverage is note expected for this exercise.
+7.  **Tests** Highly desireable but 100% coverage is not expected for this exercise.
 8.  **README** Description, getting started, ect.
 
 ### Delivery of project
