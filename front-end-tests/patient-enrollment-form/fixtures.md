@@ -17,28 +17,6 @@ Copy, questions, fields to fill out your form
 - `Marital Status`: Married, Single, Divorced, Life Partner, Separated, Widowed,
   Other
 
-## Diseases
-
-- Cancer
-- Heart Disease
-- Diabetes
-- Stroke
-- High Blood Pressure
-- High Cholesterol
-- Liver Disease
-- Alcohol / Drug Abuse
-- Anxiety / Depression
-- Tuberculosis
-- Anesthesia Complications
-
-## Family relations
-
-- Grandparents
-- Mother
-- Father
-- Siblings
-- Children
-
 ## Medical questions
 
 - Do you smoke any tobacco products?
