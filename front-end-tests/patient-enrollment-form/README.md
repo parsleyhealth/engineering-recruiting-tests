@@ -2,7 +2,7 @@
 
 ### Overview
 
-In this task you'll be creating a simple, **React** application, that consists of a form and a data visualization screen.
+In this task you'll be creating a simple, **React** application, preferably using typescript, that consists of a form and a data visualization screen.
 
 > If you have any questions email me at guayo@parsleyhealth.com.
 
