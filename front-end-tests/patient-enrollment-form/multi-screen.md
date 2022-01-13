@@ -4,7 +4,7 @@
 
 In this task you'll be creating a simple, **React** application, preferably using typescript, that consists of a form and a data visualization screen.
 
-> If you have any questions email me at guayo@parsleyhealth.com.
+> If you have any questions please send an email to the following addresses: guayo@parsleyhealth.com and kristina.skordas@parsleyhealth.com
 
 ### Prompt
 
