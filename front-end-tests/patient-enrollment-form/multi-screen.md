@@ -34,7 +34,7 @@ that falls during the weekend, then please turn it in by Monday.
 ### Evaluation & priorities
 
 We don't expect you to create something perfect and highly polished — 
-Limit yourself to 4 - 6 hours working time. We hope in that time
+Limit yourself to 3 - 4 hours working time. We hope in that time
 you'll consider the following.  
 
 
